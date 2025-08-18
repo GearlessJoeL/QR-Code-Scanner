@@ -5,7 +5,9 @@ Chrome Extension for QR Code Scanner
 ## Quick Start
 
 1. Download QR-Code-Scanner.crx
-2. Drag it into [Chrome's Extensions Page](chrome://extensions)
+2. Drag it into Chrome's Extensions Page(You can simply type [chrome://extensions](chrome://extensions) in Chrome)
+
+___
 
 After import the extension to Chrome, you are able to recognize the QR code in an image by right-clicking the image and select: *Scan QR Code* in the panel.
 
